@@ -12,7 +12,7 @@
 
 ![p1](https://github.com/SplendidJoe/-/blob/main/p1.png)
 
-2. 打开文件夹里的qqhru.exe
+2. 打开文件夹里的qqhru.exe  exe文件在master分支里
 3. 先打开评估页面  在打开exe
 4. 保证页面上只有一个exe文件(如下图所示)
 
