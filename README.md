@@ -10,7 +10,7 @@
 
 1. 登录教务管理系统  并把页面放到评估那一页
 
-
+https://github.com/SplendidJoe/-/blob/main/p1.png
 
 2. 打开文件夹里的qqhru.exe
 3. 先打开评估页面  在打开exe
