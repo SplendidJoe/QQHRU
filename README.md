@@ -10,13 +10,13 @@
 
 1. 登录教务管理系统  并把页面放到评估那一页
 
-![p1]https://github.com/SplendidJoe/-/blob/main/p1.png
+![p1](https://github.com/SplendidJoe/-/blob/main/p1.png)
 
 2. 打开文件夹里的qqhru.exe
 3. 先打开评估页面  在打开exe
 4. 保证页面上只有一个exe文件(如下图所示)
 
-![p2]https://github.com/SplendidJoe/-/blob/main/p2.png
+![p2](https://github.com/SplendidJoe/-/blob/main/p2.png)
 
 5. 选择1 就评估一次  选择循环到死 可以全部评估
 6. 之后可以解放双手 静等所有评估完成就可以关闭
